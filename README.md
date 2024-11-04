@@ -1,2 +1,2 @@
 #Domaci iz PTI
-Ovo je domaci iz primjenjene teorije igara
+##Ovo je domaci iz primjenjene teorije igara
